@@ -1,5 +1,7 @@
 # NAME: custom_domains.list
 # AUTHOR: plahovnix
+# social
+DOMAIN-SUFFIX, linkedin.com
 # ai
 DOMAIN-SUFFIX, gmail.com
 DOMAIN-SUFFIX, google.com 
